@@ -1,0 +1,9 @@
+.calendar-wrapper .react-datepicker {
+    width: 100%;
+    height: auto;
+  }
+  
+  .calendar-wrapper .react-datepicker__month-container {
+    width: 100%;
+  }
+  
